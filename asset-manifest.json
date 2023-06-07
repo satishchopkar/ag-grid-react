@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ag-grid-react/static/css/main.96660f18.css",
+    "main.js": "/ag-grid-react/static/js/main.1ff388a8.js",
+    "static/js/787.b701888c.chunk.js": "/ag-grid-react/static/js/787.b701888c.chunk.js",
+    "index.html": "/ag-grid-react/index.html",
+    "main.96660f18.css.map": "/ag-grid-react/static/css/main.96660f18.css.map",
+    "main.1ff388a8.js.map": "/ag-grid-react/static/js/main.1ff388a8.js.map",
+    "787.b701888c.chunk.js.map": "/ag-grid-react/static/js/787.b701888c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96660f18.css",
+    "static/js/main.1ff388a8.js"
+  ]
+}
